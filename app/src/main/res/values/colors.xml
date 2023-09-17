@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Dark mode-->
+    <color name="d_Primary">#6C6CC6</color>
+
+    <color name="d_faded_sm">#949498</color>
+    <color name="d_faded_md">#4C4960</color>
+
+    <color name="d_card">#252435</color>
+    <color name="d_background">#1E1C2A</color>
+
+    <color name="d_alt">#C19C3F</color>
+
+    <!-- Light mode-->
+    <color name="l_primary">#54ACC6</color>
+
+    <color name="l_faded_sm">#616B72</color>
+    <color name="l_faded_md">#616B72</color>
+
+    <color name="l_card">#93A7AD</color>
+    <color name="l_background">#C7D0D3</color>
+
+    <color name="l_alt">#B48510</color>
+
+
+
+
+
+</resources>
