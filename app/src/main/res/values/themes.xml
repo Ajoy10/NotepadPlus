@@ -7,8 +7,20 @@
 
     <style name="Theme.Notepad" parent="Base.Theme.Notepad" >
         <item name="android:statusBarColor">@color/l_background</item>
-        <item name="android:background">@color/l_background</item>
+        <item name="android:windowBackground">@color/l_background</item>
+
+        <item name="android:fontFamily">@font/sarabun</item>
+
+        <!--Custom Colors-->
         <item name="cardColor">@color/l_card</item>
+        <item name="faded_sm">@color/l_faded_sm</item>
+        <item name="faded_md">@color/l_faded_md</item>
+    </style>
+
+    <style name="TabLayoutText" >
+        <item name="android:textSize" >16sp</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
 
     </style>
+
 </resources>

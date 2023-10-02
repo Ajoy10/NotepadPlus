@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <attr name="cardColor" format="reference" />
+    <attr name="faded_sm" format="reference" />
+    <attr name="faded_md" format="reference" />
 </resources>
